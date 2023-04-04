@@ -1,0 +1,1 @@
+codon_program2.py:4:14: error: syntax error, unexpected 'or'

@@ -1,0 +1,2 @@
+codon_program0.py:5:4-8: error: 's234DI58I' object has no attribute 'D81836891'
+codon_program0.py:10:2-40: error: during the realization of B99q2s0(self: s234DI58I, s843oO1: bool, Cb5pZ943U: bool)

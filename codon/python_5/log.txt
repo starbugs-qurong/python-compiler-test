@@ -1,0 +1,2 @@
+codon_program5.py:5:5-9: error: 'T12Hb789' object has no attribute 'BR280BRF'
+codon_program5.py:8:2-22: error: during the realization of D2z16jwnb8(self: T12Hb789)

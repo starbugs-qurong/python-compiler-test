@@ -1,0 +1,2 @@
+codon_program6.py:5:4-8: error: 'ceGQzN5O7' object has no attribute 'n7XHcC587'
+codon_program6.py:8:2-23: error: during the realization of op7Igj8j(self: ceGQzN5O7)

@@ -1,0 +1,2 @@
+codon_program9.py:7:20-34: error: name 'QD31jzVqwcount' is not defined
+codon_program9.py:8:8-22: error: name 'QD31jzVqwcount' is not defined

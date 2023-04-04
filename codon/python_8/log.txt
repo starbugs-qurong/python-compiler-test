@@ -1,0 +1,10 @@
+ValueError: optional is None
+
+Raised from: std.internal.types.optional.unwrap:0
+.codon/lib/codon/stdlib/internal/types/optional.codon:80:5
+
+Backtrace:
+  GCC_except_table74 at .codon/lib/codon/stdlib/internal/types/optional.codon:80:5
+  GCC_except_table74 at codon_program8.py:6:27
+  GCC_except_table74 at codon_program8.py:13:2
+ (core dumped) .codon/bin/codon run codon_program8.py 
