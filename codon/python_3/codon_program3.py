@@ -1,10 +1,10 @@
-class g32Ck29 (): 
-	l618xA2v = "IXgotDE13"
-	JR2F7RH5o = "r"
-	ZPs35284 = 0.5
-	vggx3vQ3 = 0.31
+class g32Ck29:
+	l618xA2v: Optional[str]= "IXgotDE13"
+	JR2F7RH5o: str = "r"
+	ZPs35284:float = 0.5
+	vggx3vQ3:float = 0.31
 	def Q0400A8 ( self , M1595y67A : int , Zxd3V4Yw : int , wxUjz87u : int ) -> bool : 
-			if (((self.l618xA2v)==None)and(self.JR2F7RH5o)==("V_J9S2w_UA")) : 
+			if (((self.l618xA2v)==None) and(self.JR2F7RH5o)==("V_J9S2w_UA")) : 
 				self.ZPs35284+=self.vggx3vQ3  
 if __name__ == '__main__':
 	u3hZC2EfI = 2564
