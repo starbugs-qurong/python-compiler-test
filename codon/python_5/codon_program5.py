@@ -1,5 +1,5 @@
-class T12Hb789 (): 
-	BR280BRF = 90
+class T12Hb789: 
+	BR280BRF:int = 90
 	def D2z16jwnb8 ( self )  : 
 			for wX4214N8 in range ( 1 , 10 , 1 ) :
 				self.BR280BRF+=self.BR280BRF  
