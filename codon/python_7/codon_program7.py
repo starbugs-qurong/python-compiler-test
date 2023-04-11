@@ -1,6 +1,6 @@
-class L6Z424Xp (): 
-	ki702Y9a30 = 27
-	LQR770XidT = "4YiBNWaE0"
+class L6Z424Xp: 
+	ki702Y9a30:int = 27
+	LQR770XidT: Optional[str] = "4YiBNWaE0"
 	def C7788020M ( self , mx7bY1E77 : bool )  : 
 			f75NO49 = ( ( ( self.ki702Y9a30 ) ) ) ; 
 			Yx6l2635count=0
@@ -15,3 +15,4 @@ if __name__ == '__main__':
 	SKQjq0w.C7788020M(wt0717sZ)
 	print(SKQjq0w.ki702Y9a30)
 	print(SKQjq0w.LQR770XidT)
+
