@@ -1,6 +1,6 @@
-class x5Kp54Fa6 (): 
-	y8oQ6lg = 25
-	RC954Ay7 = "96tcJ4G"
+class x5Kp54Fa6: 
+	y8oQ6lg: int = 25
+	RC954Ay7: Optional[str] = "96tcJ4G"
 	def u137u306 ( self ) -> int : 
 			QD31jzVqwcount=0
 			while (self.RC954Ay7)==None :
