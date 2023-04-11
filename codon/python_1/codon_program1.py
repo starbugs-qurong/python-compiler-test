@@ -1,8 +1,8 @@
-class Q625NBX (): 
-	TL331N2 = 0.77
-	syS0808 = 0.86
-	TaiXA3f9 = 28
-	HwexU9apV = 7886
+class Q625NBX: 
+	TL331N2:float = 0.77
+	syS0808:float = 0.86
+	TaiXA3f9:int = 28
+	HwexU9apV:int = 7886
 	def oDt49nu52 ( self ) -> bool : 
 			self.TL331N2/=(1if((1if(self.syS0808==0)else(self.syS0808))==0)else((1if(self.syS0808==0)else(self.syS0808))))  
 if __name__ == '__main__':
