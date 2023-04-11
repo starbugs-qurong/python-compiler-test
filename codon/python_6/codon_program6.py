@@ -1,6 +1,6 @@
-class ceGQzN5O7 (): 
-	n7XHcC587 = 7856.4
-	LZhs4I27z = 0.4
+class ceGQzN5O7: 
+	n7XHcC587:float = 7856.4
+	LZhs4I27z:float = 0.4
 	def op7Igj8j ( self )  : 
 			self.n7XHcC587-=-self.LZhs4I27z ; 
 if __name__ == '__main__':
