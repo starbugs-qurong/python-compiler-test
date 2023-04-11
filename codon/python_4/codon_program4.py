@@ -1,7 +1,7 @@
-class K10LageT4T (): 
-	wW71hQN40 = 0.27
-	uLc35tmX = 51
-	def l44qbGzqB ( self , jC82Ok77R : bool ) -> bytes : 
+class K10LageT4T: 
+	wW71hQN40:float = 0.27
+	uLc35tmX:int = 51
+	def l44qbGzqB ( self , jC82Ok77R : bool ) -> int : 
 			p4t1268OIo = ( self.wW71hQN40 - ( ( ( 7660.04 ) - ( 9705.27 ) ) ) ) ; 
 			c251kN35N = self.uLc35tmX  
 if __name__ == '__main__':
