@@ -1,6 +1,0 @@
-program2599.py, line 491, in <module>
-    print(s6ZVjHO91b.fiE9UvCGE)
-ValueError: Exceeds the limit (4300) for integer string conversion; use sys.set_int_max_str_digits() to increase the limit
-
-
-原因 在循环中有连乘操作，初始值较大的话，结果会非常大，使用print函数时，把整数转换为字符串时会出错
